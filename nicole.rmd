@@ -1,0 +1,19 @@
+---
+title: "nicole.rmd"
+author: "Nicole"
+date: "9/19/2024"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Nicole
+###### My name is Nicole and here are three facts about me
+
+- I study birds 
+
+- I like pastries
+
+- I love watching football 
+

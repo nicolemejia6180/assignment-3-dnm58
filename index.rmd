@@ -1,0 +1,19 @@
+---
+title: "index.rmd"
+author: "Nicole"
+date: "9/19/2024"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Nicole Index Markdown Page
+
+Name: Nicole Mejia (https://github.com/nicolemejia6180)
+
+Collaborator: Hannah Monti (https://github.com/hmonti-m)
+
+![Study organisms](https://ogden_images.s3.amazonaws.com/www.observertoday.com/images/2022/02/11124213/Lichens-2-scaled.jpg)
+
